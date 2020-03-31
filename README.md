@@ -1,2 +1,0 @@
-# Mountain Grown Routes
-Blog
